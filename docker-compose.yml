@@ -30,6 +30,6 @@ services:
       - "4327:4327"
     volumes:
       - "rcon:/opt/rcon-web-admin/db"
- volumes:
+volumes:
   mc:
   rcon:
