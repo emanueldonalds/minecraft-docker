@@ -12,7 +12,7 @@ sudo chmod +x install_docker.sh
 sudo reboot
 
 ## Run
-docker-compose up minecraft
+docker-compose up -d minecraft
 
 ## Interact with server
 docker exec -i mc rcon-cli
