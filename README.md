@@ -1,4 +1,4 @@
-# Minecraft server
+# Minecraft server for Amazon Linux 2
 
 ## Clone
 git clone https://github.com/emanueldonalds/minecraft-docker.git
